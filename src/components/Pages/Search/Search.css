@@ -1,0 +1,22 @@
+.form {
+	position: relative;
+}
+form {
+	width: 100%;
+	margin: 40px 15px;
+}
+
+input {
+	width: 100%;
+	border: none;
+	border-bottom: 2px solid black;
+	font-size: 18px;
+	padding-bottom: 5px;
+	outline: none;
+}
+
+.icon {
+	position: absolute;
+	right: 0;
+	bottom: 10px;
+}
